@@ -19,5 +19,11 @@
     "eslint-config-next": "14.2.5",
     "postcss": "^8.4.40",
     "tailwindcss": "^3.4.7"
+  },
+  "overrides": {
+    "js-yaml": "4.3.1"
+  },
+  "resolutions": {
+    "js-yaml": "4.3.1"
   }
 }
